@@ -1,5 +1,2 @@
-console.log('hey world');
-
-var body = document.getElementById('hello');
-
-body.className = 'hey';
+console.log('Hello DOM');
+console.log($);
